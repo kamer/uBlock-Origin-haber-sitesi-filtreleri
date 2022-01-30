@@ -1,0 +1,126 @@
+*://yeniakit.com.tr/*
+google.*##.g:has(a[href*="yeniakit.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="yeniakit.com.tr"])
+*://haber7.com/*
+google.*##.g:has(a[href*="haber7.com"])
+duckduckgo.*##.results > div:has(a[href*="haber7.com"])
+*://ahaber.com.tr/*
+google.*##.g:has(a[href*="ahaber.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="ahaber.com.tr"])
+*://trthaber.com/*
+google.*##.g:has(a[href*="trthaber.com"])
+duckduckgo.*##.results > div:has(a[href*="trthaber.com"])
+*://internethaber.com/*
+google.*##.g:has(a[href*="internethaber.com"])
+duckduckgo.*##.results > div:has(a[href*="internethaber.com"])
+*://takvim.com.tr/*
+google.*##.g:has(a[href*="takvim.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="takvim.com.tr"])
+*://memurlar.net/*
+google.*##.g:has(a[href*="memurlar.net"])
+duckduckgo.*##.results > div:has(a[href*="memurlar.net"])
+*://yeniasir.com.tr/*
+google.*##.g:has(a[href*="yeniasir.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="yeniasir.com.tr"])
+*://t24.com.tr/*
+google.*##.g:has(a[href*="t24.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="t24.com.tr"])
+*://sondakika.com/*
+google.*##.g:has(a[href*="sondakika.com"])
+duckduckgo.*##.results > div:has(a[href*="sondakika.com"])
+*://yenisafak.com/*
+google.*##.g:has(a[href*="yenisafak.com"])
+duckduckgo.*##.results > div:has(a[href*="yenisafak.com"])
+*://posta.com.tr/*
+google.*##.g:has(a[href*="posta.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="posta.com.tr"])
+*://milligazete.com.tr/*
+google.*##.g:has(a[href*="milligazete.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="milligazete.com.tr"])
+*://birgun.net/*
+google.*##.g:has(a[href*="birgun.net"])
+duckduckgo.*##.results > div:has(a[href*="birgun.net"])
+*://ensonhaber.com/*
+google.*##.g:has(a[href*="ensonhaber.com"])
+duckduckgo.*##.results > div:has(a[href*="ensonhaber.com"])
+*://mynet.com/*
+google.*##.g:has(a[href*="mynet.com"])
+duckduckgo.*##.results > div:has(a[href*="mynet.com"])
+*://star.com.tr/*
+google.*##.g:has(a[href*="star.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="star.com.tr"])
+*://gazeteduvar.com.tr/*
+google.*##.g:has(a[href*="gazeteduvar.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="gazeteduvar.com.tr"])
+*://haberturk.com/*
+google.*##.g:has(a[href*="haberturk.com"])
+duckduckgo.*##.results > div:has(a[href*="haberturk.com"])
+*://sozcu.com.tr/*
+google.*##.g:has(a[href*="sozcu.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="sozcu.com.tr"])
+*://haberler.com/*
+google.*##.g:has(a[href*="haberler.com"])
+duckduckgo.*##.results > div:has(a[href*="haberler.com"])
+*://odatv.com/*
+google.*##.g:has(a[href*="odatv.com"])
+duckduckgo.*##.results > div:has(a[href*="odatv.com"])
+*://hurriyet.com.tr/*
+google.*##.g:has(a[href*="hurriyet.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="hurriyet.com.tr"])
+*://milliyet.com.tr/*
+google.*##.g:has(a[href*="milliyet.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="milliyet.com.tr"])
+*://sabah.com.tr/*
+google.*##.g:has(a[href*="sabah.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="sabah.com.tr"])
+*://cumhuriyet.com.tr/*
+google.*##.g:has(a[href*="cumhuriyet.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="cumhuriyet.com.tr"])
+*://cnnturk.com/*
+google.*##.g:has(a[href*="cnnturk.com"])
+duckduckgo.*##.results > div:has(a[href*="cnnturk.com"])
+*://ntv.com.tr/*
+google.*##.g:has(a[href*="ntv.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="ntv.com.tr"])
+*://fotomac.com.tr/*
+google.*##.g:has(a[href*="fotomac.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="fotomac.com.tr"])
+*://yenicaggazetesi.com.tr/*
+google.*##.g:has(a[href*="yenicaggazetesi.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="yenicaggazetesi.com.tr"])
+*://gazetevatan.com/*
+google.*##.g:has(a[href*="gazetevatan.com"])
+duckduckgo.*##.results > div:has(a[href*="gazetevatan.com"])
+*://gunes.com/*
+google.*##.g:has(a[href*="gunes.com"])
+duckduckgo.*##.results > div:has(a[href*="gunes.com"])
+*://timeturk.com/*
+google.*##.g:has(a[href*="timeturk.com"])
+duckduckgo.*##.results > div:has(a[href*="timeturk.com"])
+*://aspor.com.tr/*
+google.*##.g:has(a[href*="aspor.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="aspor.com.tr"])
+*://yurtgazetesi.com.tr/*
+google.*##.g:has(a[href*="yurtgazetesi.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="yurtgazetesi.com.tr"])
+*://sporx.com/*
+google.*##.g:has(a[href*="sporx.com"])
+duckduckgo.*##.results > div:has(a[href*="sporx.com"])
+*://emlakkulisi.com/*
+google.*##.g:has(a[href*="emlakkulisi.com"])
+duckduckgo.*##.results > div:has(a[href*="emlakkulisi.com"])
+*://haberglobal.com.tr/*
+google.*##.g:has(a[href*="haberglobal.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="haberglobal.com.tr"])
+*://gidahatti.com/*
+google.*##.g:has(a[href*="gidahatti.com"])
+duckduckgo.*##.results > div:has(a[href*="gidahatti.com"])
+*://aksam.com.tr/*
+google.*##.g:has(a[href*="aksam.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="aksam.com.tr"])
+*://fanatik.com.tr/*
+google.*##.g:has(a[href*="fanatik.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="fanatik.com.tr"])
+*://gunboyugazetesi.com.tr/*
+google.*##.g:has(a[href*="gunboyugazetesi.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="gunboyugazetesi.com.tr"])
