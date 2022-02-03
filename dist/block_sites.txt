@@ -1,4 +1,5 @@
 *://yeniakit.com.tr/*
+*://akittv.com.tr/*
 *://haber7.com/*
 *://ahaber.com.tr/*
 *://trthaber.com/*
@@ -40,3 +41,4 @@
 *://aksam.com.tr/*
 *://fanatik.com.tr/*
 *://gunboyugazetesi.com.tr/*
+*://veryansintv.com/*

@@ -1,6 +1,9 @@
 *://yeniakit.com.tr/*
 google.*##.g:has(a[href*="yeniakit.com.tr"])
 duckduckgo.*##.results > div:has(a[href*="yeniakit.com.tr"])
+*://akittv.com.tr/*
+google.*##.g:has(a[href*="akittv.com.tr"])
+duckduckgo.*##.results > div:has(a[href*="akittv.com.tr"])
 *://haber7.com/*
 google.*##.g:has(a[href*="haber7.com"])
 duckduckgo.*##.results > div:has(a[href*="haber7.com"])
@@ -124,3 +127,6 @@ duckduckgo.*##.results > div:has(a[href*="fanatik.com.tr"])
 *://gunboyugazetesi.com.tr/*
 google.*##.g:has(a[href*="gunboyugazetesi.com.tr"])
 duckduckgo.*##.results > div:has(a[href*="gunboyugazetesi.com.tr"])
+*://veryansintv.com/*
+google.*##.g:has(a[href*="veryansintv.com"])
+duckduckgo.*##.results > div:has(a[href*="veryansintv.com"])
